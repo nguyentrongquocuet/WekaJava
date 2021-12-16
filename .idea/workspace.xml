@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cde02778-fdea-45d4-b014-215807ff3bc6" name="Changes" comment="Init" />
+    <list default="true" id="cde02778-fdea-45d4-b014-215807ff3bc6" name="Changes" comment="Init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +122,7 @@
       <workItem from="1639590738212" duration="6334000" />
       <workItem from="1639598198963" duration="1663000" />
       <workItem from="1639600867397" duration="16061000" />
+      <workItem from="1639647047685" duration="594000" />
     </task>
     <servers />
   </component>
@@ -131,5 +136,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
