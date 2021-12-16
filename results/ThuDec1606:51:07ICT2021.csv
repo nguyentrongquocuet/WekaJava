@@ -1,0 +1,7 @@
+numOfTry, no_1, f1, precision, recall, accuracy, no_2, no_3, seed
+1, weka.classifiers.trees.RandomForest, 0.5790275872580399, 0.5785907859078591, 0.5802469135802469, 58.02469135802469, weka.classifiers.lazy.IBk, weka.classifiers.functions.SimpleLogistic, 42
+
+
+2, weka.classifiers.trees.RandomForest, 0.6658448369481835, 0.6683906128350572, 0.6666666666666666, 66.66666666666667, weka.classifiers.lazy.LWL, weka.classifiers.lazy.IBk, 42
+
+

@@ -1,0 +1,5 @@
+numOfTry, no_1, f1, precision, recall, accuracy, no_2, no_3, seed
+1, weka.classifiers.lazy.IBk, 0.6397901484504522, 0.6397306397306397, 0.6419753086419753, 64.19753086419753, weka.classifiers.trees.RandomForest, weka.classifiers.functions.MultilayerPerceptron, 42
+2, weka.classifiers.trees.RandomForest, 0.6658448369481835, 0.6683906128350572, 0.6666666666666666, 66.66666666666667, weka.classifiers.lazy.LWL, weka.classifiers.bayes.NaiveBayes, 42
+3, weka.classifiers.lazy.IBk, 0.6812546552578785, 0.7042997020008513, 0.6790123456790124, 67.90123456790124, weka.classifiers.trees.RandomForest, weka.classifiers.trees.LMT, 42
+4, weka.classifiers.trees.RandomForest, 0.6334475498594353, 0.664161220043573, 0.6296296296296297, 62.96296296296296, weka.classifiers.trees.RandomForest, weka.classifiers.lazy.IBk, 42
